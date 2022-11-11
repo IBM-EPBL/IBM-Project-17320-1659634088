@@ -14,7 +14,7 @@
      spec:
        containers:
        - name: myjobportal
-         image: us.icr.io/gokulrepo/job-portal-final
+         image: us.icr.io/sudharsanrepo/job-portal-final
          imagePullPolicy: Always
          ports:
          - containerPort: 5000
